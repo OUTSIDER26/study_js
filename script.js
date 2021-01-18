@@ -1,2 +1,2 @@
-alert(2);
-console.log(3);
+alert(3);
+console.log(2);
