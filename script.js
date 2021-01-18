@@ -1,3 +1,9 @@
-alert(2);
-console.log(3);
-let i =5;
+let money,
+    income,
+    addExpenses,
+    deposit,
+    mission,
+    period;
+alert('привет')    
+console.log(6);
+
